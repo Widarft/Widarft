@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # Hallo World!
 Perkenalkan nama saya **Muhamad Adib Septiawan**.<br>
 
-Saya seorang **Mahasiswa** di Universitas Widyatama.<br>
+Saya seorang **Mahasiswa** di **Universitas Widyatama**.<br>
 
-Saat ini saya sedang mengikuti studi independen di Bangkit.<br>
+Saat ini saya sedang mengikuti studi independen di **Bangkit** sebagai Cohort **Mobile Developer**.<br>
 
-Saat ini saya sedang fokus pada android developer.<br>
+Saat ini saya sedang fokus pada Android Developer.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-adib-septiawan-2b719921b)ku ya.
